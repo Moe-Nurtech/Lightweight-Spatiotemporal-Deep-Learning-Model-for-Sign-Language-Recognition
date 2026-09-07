@@ -1,0 +1,1 @@
+# Lightweight-Spatiotemporal-Deep-Learning-Model-for-Sign-Language-Recognition
